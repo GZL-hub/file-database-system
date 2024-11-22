@@ -40,6 +40,7 @@ A modern file management system built with Vue.js, Node.js, and MongoDB. This ap
 ### Backend Setup
 ```bash
 cd backend
+npm install 
 node server.js
 ```
 ### Frontend Setup
